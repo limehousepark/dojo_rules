@@ -2,4 +2,5 @@
 *Git
 *Java
 *Ruby
+*rebase
 
